@@ -1,6 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require('path');
 
 const scrape = async () => {
   const url = 'https://plaintextsports.com/mlb/2025/standings';
@@ -81,8 +82,13 @@ const scrape = async () => {
     standings: results
   };
 
-  fs.writeFileSync('standings.json', JSON.stringify(output, null, 2));
-  console.log('✅ Wrote standings.json');
+  const outputDir = path.join(__dirname, 'public');
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir);
+  }
+
+  fs.writeFileSync(path.join(outputDir, 'standings.json'), JSON.stringify(output, null, 2));
+  console.log('✅ Wrote public/standings.json');
 };
 
 scrape();
