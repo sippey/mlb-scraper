@@ -36,15 +36,18 @@ const scrape = async () => {
     let time = $clone.find('time').text().trim();
     $clone.find('time').remove();
 
-    // Convert to Pacific Time
-    const [hourStr, minuteStr] = time.split(':');
-    let hour = parseInt(hourStr);
-    const minute = minuteStr.padStart(2, '0');
+    let pacificTime = time; // fallback to original time if parsing fails
 
-    hour -= 3;
-    if (hour < 1) hour += 12; // basic handling of 12-hour rollover
+    if (time && time.includes(':')) {
+      const [hourStr, minuteStr] = time.split(':');
+      let hour = parseInt(hourStr, 10);
+      const minute = minuteStr.padStart(2, '0');
 
-    const pacificTime = `${hour}:${minute}`;
+      hour -= 3;
+      if (hour < 1) hour += 12; // basic 12-hour wraparound
+
+      pacificTime = `${hour}:${minute}`;
+    }
 
     const rawText = $clone.text().replace(/\s+/g, ' ').trim();
     const team = $clone.find('a').text().trim();
@@ -77,8 +80,19 @@ const scrape = async () => {
     });
   });
 
+  const now = new Date();
+  const timestamp = now.toLocaleString('en-US', {
+    timeZone: 'America/Los_Angeles',
+    weekday: 'short',
+    month: 'short',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: '2-digit',
+    hour12: true
+  });
+
   const output = {
-    timestamp: new Date().toISOString(),
+    timestamp,
     standings: results
   };
 
