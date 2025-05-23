@@ -1,5 +1,5 @@
 {
-  "timestamp": "Thu, May 22, 1:08 PM",
+  "timestamp": "Thu, May 22, 5:32 PM",
   "standings": [
     {
       "team": "LAD",
@@ -24,12 +24,12 @@
     {
       "team": "SD",
       "wins": 27,
-      "losses": 20,
-      "pct": ".574",
-      "gb": "2.5",
-      "streak": "L5",
-      "last10": "3-7",
-      "today": "at TOR (live) @"
+      "losses": 21,
+      "pct": ".563",
+      "gb": "3.0",
+      "streak": "L6",
+      "last10": "2-8",
+      "today": "L at TOR @"
     },
     {
       "team": "AZ",
@@ -44,12 +44,12 @@
     {
       "team": "COL",
       "wins": 8,
-      "losses": 41,
-      "pct": ".163",
-      "gb": "22.5",
-      "streak": "L4",
-      "last10": "2-8",
-      "today": "vs PHI (live) @"
+      "losses": 42,
+      "pct": ".160",
+      "gb": "23.0",
+      "streak": "L5",
+      "last10": "1-9",
+      "today": "L vs PHI @"
     }
   ]
 }
