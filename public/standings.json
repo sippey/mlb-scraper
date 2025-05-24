@@ -1,5 +1,5 @@
 {
-  "timestamp": "Fri, May 23, 5:31 PM",
+  "timestamp": "Fri, May 23, 9:08 PM",
   "standings": [
     {
       "team": "LAD",
@@ -13,43 +13,43 @@
     },
     {
       "team": "SF",
-      "wins": 29,
+      "wins": 30,
       "losses": 21,
-      "pct": ".580",
-      "gb": "2.0",
-      "streak": "L1",
-      "last10": "5-5",
-      "today": "at WSH (live) @"
+      "pct": ".588",
+      "gb": "1.5",
+      "streak": "W1",
+      "last10": "6-4",
+      "today": "W at WSH @"
     },
     {
       "team": "SD",
-      "wins": 27,
+      "wins": 28,
       "losses": 21,
-      "pct": ".563",
-      "gb": "3.0",
-      "streak": "L6",
-      "last10": "2-8",
-      "today": "at ATL (live) @"
+      "pct": ".571",
+      "gb": "2.5",
+      "streak": "W1",
+      "last10": "3-7",
+      "today": "W at ATL @"
     },
     {
       "team": "AZ",
       "wins": 26,
-      "losses": 24,
-      "pct": ".520",
-      "gb": "5.0",
-      "streak": "L2",
+      "losses": 25,
+      "pct": ".510",
+      "gb": "5.5",
+      "streak": "L3",
       "last10": "5-5",
-      "today": "at STL (live) @"
+      "today": "L at STL @"
     },
     {
       "team": "COL",
-      "wins": 8,
+      "wins": 9,
       "losses": 42,
-      "pct": ".160",
-      "gb": "23.0",
-      "streak": "L5",
-      "last10": "1-9",
-      "today": "vs NYY @ 5:40"
+      "pct": ".176",
+      "gb": "22.5",
+      "streak": "W1",
+      "last10": "2-8",
+      "today": "W vs NYY @"
     }
   ]
 }
