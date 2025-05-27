@@ -1,5 +1,5 @@
 {
-  "timestamp": "Mon, May 26, 1:07 PM",
+  "timestamp": "Mon, May 26, 5:31 PM",
   "standings": [
     {
       "team": "LAD",
@@ -9,7 +9,7 @@
       "gb": "-",
       "streak": "L2",
       "last10": "4-6",
-      "today": "at CLE @ 3:10"
+      "today": "at CLE (live) @"
     },
     {
       "team": "SF",
@@ -39,17 +39,17 @@
       "gb": "6.0",
       "streak": "L5",
       "last10": "4-6",
-      "today": "vs PIT @ 5:10"
+      "today": "vs PIT (live) @"
     },
     {
       "team": "COL",
       "wins": 9,
-      "losses": 44,
-      "pct": ".170",
-      "gb": "23.0",
-      "streak": "L2",
+      "losses": 45,
+      "pct": ".167",
+      "gb": "23.5",
+      "streak": "L3",
       "last10": "2-8",
-      "today": "at CHC (live) @"
+      "today": "L at CHC @"
     }
   ]
 }
