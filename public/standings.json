@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, May 28, 5:32 PM",
+  "timestamp": "Wed, May 28, 9:10 PM",
   "standings": [
     {
       "team": "LAD",
@@ -44,12 +44,12 @@
     {
       "team": "COL",
       "wins": 9,
-      "losses": 46,
-      "pct": ".164",
-      "gb": "24.5",
-      "streak": "L4",
+      "losses": 47,
+      "pct": ".161",
+      "gb": "25.0",
+      "streak": "L5",
       "last10": "1-9",
-      "today": "at CHC (live) @"
+      "today": "L at CHC @"
     }
   ]
 }
