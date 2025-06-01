@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sun, Jun 1, 9:07 AM",
+  "timestamp": "Sun, Jun 1, 1:07 PM",
   "standings": [
     {
       "team": "LAD",
@@ -29,7 +29,7 @@
       "gb": "4.0",
       "streak": "L1",
       "last10": "4-6",
-      "today": "at MIA @ 10:40"
+      "today": "at MIA (live) @"
     },
     {
       "team": "AZ",
@@ -44,12 +44,12 @@
     {
       "team": "COL",
       "wins": 9,
-      "losses": 49,
-      "pct": ".155",
-      "gb": "27.0",
-      "streak": "L7",
+      "losses": 50,
+      "pct": ".153",
+      "gb": "27.5",
+      "streak": "L8",
       "last10": "1-9",
-      "today": "at NYM @ 10:40"
+      "today": "L at NYM @"
     }
   ]
 }
