@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sun, Jun 1, 1:09 AM",
+  "timestamp": "Sun, Jun 1, 5:11 AM",
   "standings": [
     {
       "team": "LAD",
@@ -9,7 +9,7 @@
       "gb": "-",
       "streak": "W2",
       "last10": "7-3",
-      "today": "W vs NYY @"
+      "today": "vs NYY @ 4:10"
     },
     {
       "team": "SD",
@@ -19,7 +19,7 @@
       "gb": "3.0",
       "streak": "L1",
       "last10": "5-5",
-      "today": "L vs PIT @"
+      "today": "vs PIT @ 2:10"
     },
     {
       "team": "SF",
@@ -29,7 +29,7 @@
       "gb": "4.0",
       "streak": "L1",
       "last10": "4-6",
-      "today": "L at MIA @"
+      "today": "at MIA @ 10:40"
     },
     {
       "team": "AZ",
@@ -39,7 +39,7 @@
       "gb": "9.0",
       "streak": "L4",
       "last10": "1-9",
-      "today": "L vs WSH @"
+      "today": "vs WSH @ 1:10"
     },
     {
       "team": "COL",
@@ -49,7 +49,7 @@
       "gb": "27.0",
       "streak": "L7",
       "last10": "1-9",
-      "today": "L at NYM @"
+      "today": "at NYM @ 10:40"
     }
   ]
 }
