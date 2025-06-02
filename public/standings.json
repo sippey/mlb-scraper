@@ -1,22 +1,22 @@
 {
-  "timestamp": "Sun, Jun 1, 5:34 PM",
+  "timestamp": "Sun, Jun 1, 9:14 PM",
   "standings": [
     {
       "team": "LAD",
       "wins": 36,
-      "losses": 22,
-      "pct": ".621",
+      "losses": 23,
+      "pct": ".610",
       "gb": "-",
-      "streak": "W2",
-      "last10": "7-3",
-      "today": "vs NYY (live) @"
+      "streak": "L1",
+      "last10": "6-4",
+      "today": "L vs NYY @"
     },
     {
       "team": "SD",
       "wins": 33,
       "losses": 24,
       "pct": ".579",
-      "gb": "2.5",
+      "gb": "2.0",
       "streak": "W1",
       "last10": "6-4",
       "today": "W vs PIT @"
@@ -26,7 +26,7 @@
       "wins": 33,
       "losses": 26,
       "pct": ".559",
-      "gb": "3.5",
+      "gb": "3.0",
       "streak": "W1",
       "last10": "4-6",
       "today": "W at MIA @"
@@ -36,7 +36,7 @@
       "wins": 28,
       "losses": 31,
       "pct": ".475",
-      "gb": "8.5",
+      "gb": "8.0",
       "streak": "W1",
       "last10": "2-8",
       "today": "W vs WSH @"
@@ -46,7 +46,7 @@
       "wins": 9,
       "losses": 50,
       "pct": ".153",
-      "gb": "27.5",
+      "gb": "27.0",
       "streak": "L8",
       "last10": "1-9",
       "today": "L at NYM @"
