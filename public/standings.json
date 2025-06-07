@@ -1,5 +1,5 @@
 {
-  "timestamp": "Fri, Jun 6, 9:09 PM",
+  "timestamp": "Sat, Jun 7, 1:08 AM",
   "standings": [
     {
       "team": "LAD",
@@ -23,13 +23,13 @@
     },
     {
       "team": "SF",
-      "wins": 35,
+      "wins": 36,
       "losses": 28,
-      "pct": ".556",
-      "gb": "2.5",
-      "streak": "W2",
-      "last10": "4-6",
-      "today": "vs ATL (live) @"
+      "pct": ".563",
+      "gb": "2.0",
+      "streak": "W3",
+      "last10": "5-5",
+      "today": "W vs ATL @"
     },
     {
       "team": "AZ",
