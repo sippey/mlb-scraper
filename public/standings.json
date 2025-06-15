@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sat, Jun 14, 5:37 PM",
+  "timestamp": "Sat, Jun 14, 9:14 PM",
   "standings": [
     {
       "team": "LAD",
@@ -9,7 +9,7 @@
       "gb": "-",
       "streak": "L1",
       "last10": "5-5",
-      "today": "vs SF @ 7:10"
+      "today": "vs SF (live) @"
     },
     {
       "team": "SF",
@@ -19,27 +19,27 @@
       "gb": "-",
       "streak": "W1",
       "last10": "8-2",
-      "today": "at LAD @ 7:10"
+      "today": "at LAD (live) @"
     },
     {
       "team": "SD",
       "wins": 38,
-      "losses": 30,
-      "pct": ".559",
-      "gb": "2.0",
-      "streak": "L2",
-      "last10": "4-6",
-      "today": "at AZ (live) @"
+      "losses": 31,
+      "pct": ".551",
+      "gb": "2.5",
+      "streak": "L3",
+      "last10": "3-7",
+      "today": "L at AZ @"
     },
     {
       "team": "AZ",
-      "wins": 35,
+      "wins": 36,
       "losses": 34,
-      "pct": ".507",
-      "gb": "5.5",
-      "streak": "W4",
+      "pct": ".514",
+      "gb": "5.0",
+      "streak": "W5",
       "last10": "7-3",
-      "today": "vs SD (live) @"
+      "today": "W vs SD @"
     },
     {
       "team": "COL",
