@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Jul 2, 9:08 AM",
+  "timestamp": "Wed, Jul 2, 1:08 PM",
   "standings": [
     {
       "team": "LAD",
@@ -13,12 +13,12 @@
     },
     {
       "team": "SD",
-      "wins": 45,
+      "wins": 46,
       "losses": 39,
-      "pct": ".536",
-      "gb": "8.0",
-      "streak": "L2",
-      "last10": "5-5",
+      "pct": ".541",
+      "gb": "7.5",
+      "streak": "W1",
+      "last10": "6-4",
       "today": "DH at PHI @"
     },
     {
