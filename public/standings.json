@@ -1,22 +1,22 @@
 {
-  "timestamp": "Thu, Jul 3, 9:14 PM",
+  "timestamp": "Fri, Jul 4, 1:10 AM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 55,
+      "wins": 56,
       "losses": 32,
-      "pct": ".632",
+      "pct": ".636",
       "gb": "-",
-      "streak": "W3",
-      "last10": "8-2",
-      "today": "vs CWS (live) @"
+      "streak": "W4",
+      "last10": "9-1",
+      "today": "W vs CWS @"
     },
     {
       "team": "SD",
       "wins": 46,
       "losses": 40,
       "pct": ".535",
-      "gb": "8.5",
+      "gb": "9.0",
       "streak": "L1",
       "last10": "5-5",
       "today": "off @"
@@ -26,7 +26,7 @@
       "wins": 47,
       "losses": 41,
       "pct": ".534",
-      "gb": "8.5",
+      "gb": "9.0",
       "streak": "W2",
       "last10": "3-7",
       "today": "W at AZ @"
@@ -36,7 +36,7 @@
       "wins": 43,
       "losses": 44,
       "pct": ".494",
-      "gb": "12.0",
+      "gb": "12.5",
       "streak": "L2",
       "last10": "4-6",
       "today": "L vs SF @"
@@ -46,7 +46,7 @@
       "wins": 20,
       "losses": 67,
       "pct": ".230",
-      "gb": "35.0",
+      "gb": "35.5",
       "streak": "W1",
       "last10": "3-7",
       "today": "W vs HOU @"
