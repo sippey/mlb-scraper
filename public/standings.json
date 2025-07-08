@@ -1,55 +1,55 @@
 {
-  "timestamp": "Mon, Jul 7, 5:33 PM",
+  "timestamp": "Mon, Jul 7, 9:14 PM",
   "standings": [
     {
       "team": "LAD",
       "wins": 56,
-      "losses": 35,
-      "pct": ".615",
+      "losses": 36,
+      "pct": ".609",
       "gb": "-",
-      "streak": "L3",
-      "last10": "6-4",
-      "today": "at MIL (live) @"
+      "streak": "L4",
+      "last10": "5-5",
+      "today": "L at MIL @"
     },
     {
       "team": "SD",
       "wins": 48,
       "losses": 41,
       "pct": ".539",
-      "gb": "7.0",
+      "gb": "6.5",
       "streak": "W1",
       "last10": "5-5",
-      "today": "vs AZ @ 6:40"
+      "today": "vs AZ (live) @"
     },
     {
       "team": "SF",
       "wins": 49,
       "losses": 42,
       "pct": ".538",
-      "gb": "7.0",
+      "gb": "6.5",
       "streak": "W2",
       "last10": "5-5",
-      "today": "vs PHI @ 6:45"
+      "today": "vs PHI (live) @"
     },
     {
       "team": "AZ",
       "wins": 44,
       "losses": 46,
       "pct": ".489",
-      "gb": "11.5",
+      "gb": "11.0",
       "streak": "L1",
       "last10": "3-7",
-      "today": "at SD @ 6:40"
+      "today": "at SD (live) @"
     },
     {
       "team": "COL",
       "wins": 21,
-      "losses": 69,
-      "pct": ".233",
+      "losses": 70,
+      "pct": ".231",
       "gb": "34.5",
-      "streak": "W1",
+      "streak": "L1",
       "last10": "3-7",
-      "today": "at BOS (live) @"
+      "today": "L at BOS @"
     }
   ]
 }
