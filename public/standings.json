@@ -1,32 +1,32 @@
 {
-  "timestamp": "Wed, Jul 9, 1:07 PM",
+  "timestamp": "Wed, Jul 9, 5:33 PM",
   "standings": [
     {
       "team": "LAD",
       "wins": 56,
-      "losses": 37,
-      "pct": ".602",
+      "losses": 38,
+      "pct": ".596",
       "gb": "-",
-      "streak": "L5",
+      "streak": "L6",
       "last10": "4-6",
-      "today": "at MIL (live) @"
+      "today": "L at MIL @"
     },
     {
       "team": "SF",
       "wins": 51,
-      "losses": 42,
-      "pct": ".548",
+      "losses": 43,
+      "pct": ".543",
       "gb": "5.0",
-      "streak": "W4",
+      "streak": "L1",
       "last10": "6-4",
-      "today": "vs PHI (live) @"
+      "today": "L vs PHI @"
     },
     {
       "team": "SD",
       "wins": 49,
       "losses": 42,
       "pct": ".538",
-      "gb": "6.0",
+      "gb": "5.5",
       "streak": "W1",
       "last10": "5-5",
       "today": "vs AZ @ 6:40"
@@ -36,7 +36,7 @@
       "wins": 45,
       "losses": 47,
       "pct": ".489",
-      "gb": "10.5",
+      "gb": "10.0",
       "streak": "L1",
       "last10": "4-6",
       "today": "at SD @ 6:40"
@@ -46,10 +46,10 @@
       "wins": 21,
       "losses": 71,
       "pct": ".228",
-      "gb": "34.5",
+      "gb": "34.0",
       "streak": "L2",
       "last10": "3-7",
-      "today": "at BOS @ 4:10"
+      "today": "at BOS (live) @"
     }
   ]
 }
