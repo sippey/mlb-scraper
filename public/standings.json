@@ -1,22 +1,22 @@
 {
-  "timestamp": "Sat, Aug 2, 9:07 AM",
+  "timestamp": "Sat, Aug 2, 1:07 PM",
   "standings": [
     {
       "team": "LAD",
       "wins": 64,
-      "losses": 46,
-      "pct": ".582",
+      "losses": 47,
+      "pct": ".577",
       "gb": "-",
-      "streak": "W1",
-      "last10": "6-4",
-      "today": "at TB @ 10:10"
+      "streak": "L1",
+      "last10": "5-5",
+      "today": "L at TB @"
     },
     {
       "team": "SD",
       "wins": 61,
       "losses": 49,
       "pct": ".555",
-      "gb": "3.0",
+      "gb": "2.5",
       "streak": "W6",
       "last10": "6-4",
       "today": "vs STL @ 7:10"
@@ -26,7 +26,7 @@
       "wins": 55,
       "losses": 55,
       "pct": ".500",
-      "gb": "9.0",
+      "gb": "8.5",
       "streak": "W1",
       "last10": "3-7",
       "today": "at NYM @ 1:10"
@@ -36,7 +36,7 @@
       "wins": 51,
       "losses": 59,
       "pct": ".464",
-      "gb": "13.0",
+      "gb": "12.5",
       "streak": "L6",
       "last10": "1-9",
       "today": "at ATH @ 7:05"
@@ -46,10 +46,10 @@
       "wins": 29,
       "losses": 80,
       "pct": ".266",
-      "gb": "34.5",
+      "gb": "34.0",
       "streak": "W1",
       "last10": "5-5",
-      "today": "vs PIT @ 12:10"
+      "today": "vs PIT (live) @"
     }
   ]
 }
