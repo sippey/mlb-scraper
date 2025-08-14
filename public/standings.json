@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Aug 13, 9:14 PM",
+  "timestamp": "Thu, Aug 14, 1:10 AM",
   "standings": [
     {
       "team": "SD",
@@ -14,12 +14,12 @@
     {
       "team": "LAD",
       "wins": 68,
-      "losses": 52,
-      "pct": ".567",
-      "gb": "0.5",
-      "streak": "L3",
+      "losses": 53,
+      "pct": ".562",
+      "gb": "1.0",
+      "streak": "L4",
       "last10": "4-6",
-      "today": "at LAA (live) @"
+      "today": "L at LAA @"
     },
     {
       "team": "AZ",
