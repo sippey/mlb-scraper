@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sun, Aug 24, 9:07 AM",
+  "timestamp": "Sun, Aug 24, 1:07 PM",
   "standings": [
     {
       "team": "SD",
@@ -39,17 +39,17 @@
       "gb": "12.0",
       "streak": "W1",
       "last10": "3-7",
-      "today": "at MIL @ 11:10"
+      "today": "at MIL (live) @"
     },
     {
       "team": "COL",
       "wins": 37,
-      "losses": 93,
-      "pct": ".285",
-      "gb": "37.0",
-      "streak": "L3",
+      "losses": 94,
+      "pct": ".282",
+      "gb": "37.5",
+      "streak": "L4",
       "last10": "5-5",
-      "today": "at PIT @ 9:05"
+      "today": "L at PIT @"
     }
   ]
 }
