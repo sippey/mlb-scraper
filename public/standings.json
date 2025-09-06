@@ -1,5 +1,5 @@
 {
-  "timestamp": "Fri, Sep 5, 9:08 PM",
+  "timestamp": "Sat, Sep 6, 1:08 AM",
   "standings": [
     {
       "team": "LAD",
@@ -33,13 +33,13 @@
     },
     {
       "team": "AZ",
-      "wins": 70,
+      "wins": 71,
       "losses": 71,
-      "pct": ".496",
-      "gb": "8.0",
-      "streak": "W2",
-      "last10": "6-4",
-      "today": "vs BOS (live) @"
+      "pct": ".500",
+      "gb": "7.5",
+      "streak": "W3",
+      "last10": "7-3",
+      "today": "W vs BOS @"
     },
     {
       "team": "COL",
