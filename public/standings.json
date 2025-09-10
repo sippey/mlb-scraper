@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Sep 10, 9:08 AM",
+  "timestamp": "Wed, Sep 10, 1:08 PM",
   "standings": [
     {
       "team": "LAD",
@@ -29,7 +29,7 @@
       "gb": "7.0",
       "streak": "W2",
       "last10": "7-3",
-      "today": "vs AZ @ 12:45"
+      "today": "vs AZ (live) @"
     },
     {
       "team": "AZ",
@@ -39,7 +39,7 @@
       "gb": "9.5",
       "streak": "L3",
       "last10": "5-5",
-      "today": "at SF @ 12:45"
+      "today": "at SF (live) @"
     },
     {
       "team": "COL",
