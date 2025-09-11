@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Sep 10, 1:08 PM",
+  "timestamp": "Wed, Sep 10, 5:30 PM",
   "standings": [
     {
       "team": "LAD",
@@ -24,22 +24,22 @@
     {
       "team": "SF",
       "wins": 74,
-      "losses": 71,
-      "pct": ".510",
-      "gb": "7.0",
-      "streak": "W2",
+      "losses": 72,
+      "pct": ".507",
+      "gb": "7.5",
+      "streak": "L1",
       "last10": "7-3",
-      "today": "vs AZ (live) @"
+      "today": "L vs AZ @"
     },
     {
       "team": "AZ",
-      "wins": 72,
+      "wins": 73,
       "losses": 74,
-      "pct": ".493",
-      "gb": "9.5",
-      "streak": "L3",
+      "pct": ".497",
+      "gb": "9.0",
+      "streak": "W1",
       "last10": "5-5",
-      "today": "at SF (live) @"
+      "today": "W at SF @"
     },
     {
       "team": "COL",
