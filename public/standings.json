@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Sep 24, 1:08 PM",
+  "timestamp": "Wed, Sep 24, 5:30 PM",
   "standings": [
     {
       "team": "LAD",
@@ -14,12 +14,12 @@
     {
       "team": "SD",
       "wins": 87,
-      "losses": 71,
-      "pct": ".551",
-      "gb": "1.5",
-      "streak": "W4",
-      "last10": "7-3",
-      "today": "vs MIL @ 1:10"
+      "losses": 72,
+      "pct": ".547",
+      "gb": "2.0",
+      "streak": "L1",
+      "last10": "6-4",
+      "today": "L vs MIL @"
     },
     {
       "team": "AZ",
