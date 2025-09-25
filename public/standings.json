@@ -1,22 +1,22 @@
 {
-  "timestamp": "Wed, Sep 24, 9:09 PM",
+  "timestamp": "Thu, Sep 25, 1:10 AM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 88,
+      "wins": 89,
       "losses": 69,
-      "pct": ".561",
+      "pct": ".563",
       "gb": "-",
-      "streak": "L2",
+      "streak": "W1",
       "last10": "6-4",
-      "today": "at AZ (live) @"
+      "today": "W at AZ @"
     },
     {
       "team": "SD",
       "wins": 87,
       "losses": 72,
       "pct": ".547",
-      "gb": "2.0",
+      "gb": "2.5",
       "streak": "L1",
       "last10": "6-4",
       "today": "L vs MIL @"
@@ -24,32 +24,32 @@
     {
       "team": "AZ",
       "wins": 80,
-      "losses": 77,
-      "pct": ".510",
-      "gb": "8.0",
-      "streak": "W3",
+      "losses": 78,
+      "pct": ".506",
+      "gb": "9.0",
+      "streak": "L1",
       "last10": "7-3",
-      "today": "vs LAD (live) @"
+      "today": "L vs LAD @"
     },
     {
       "team": "SF",
-      "wins": 77,
+      "wins": 78,
       "losses": 81,
-      "pct": ".487",
+      "pct": ".491",
       "gb": "11.5",
-      "streak": "L2",
-      "last10": "2-8",
-      "today": "vs STL (live) @"
+      "streak": "W1",
+      "last10": "3-7",
+      "today": "W vs STL @"
     },
     {
       "team": "COL",
       "wins": 43,
-      "losses": 114,
-      "pct": ".274",
-      "gb": "45.0",
-      "streak": "L1",
-      "last10": "3-7",
-      "today": "at SEA (live) @"
+      "losses": 115,
+      "pct": ".272",
+      "gb": "46.0",
+      "streak": "L2",
+      "last10": "2-8",
+      "today": "L at SEA @"
     }
   ]
 }
