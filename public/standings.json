@@ -1,5 +1,5 @@
 {
-  "timestamp": "Thu, Sep 25, 9:08 PM",
+  "timestamp": "Fri, Sep 26, 1:10 AM",
   "standings": [
     {
       "team": "LAD",
@@ -44,12 +44,12 @@
     {
       "team": "COL",
       "wins": 43,
-      "losses": 115,
-      "pct": ".272",
-      "gb": "46.5",
-      "streak": "L2",
+      "losses": 116,
+      "pct": ".270",
+      "gb": "47.0",
+      "streak": "L3",
       "last10": "2-8",
-      "today": "at SEA (live) @"
+      "today": "L at SEA @"
     }
   ]
 }
