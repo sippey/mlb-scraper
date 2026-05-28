@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const scrape = async () => {
-  const url = 'https://plaintextsports.com/mlb/2025/standings';
+  const url = 'https://plaintextsports.com/mlb/2026/standings';
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
