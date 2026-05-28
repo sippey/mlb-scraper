@@ -66,7 +66,7 @@ const scrape = async () => {
     if (todayText.endsWith('@')) {
       todayText = todayText.slice(0, -1).trim();
     }
-    const today = todayText + ' @ ' + pacificTime;
+    const today = time ? `${todayText} @ ${pacificTime}` : todayText;
 
     results.push({
       team,
