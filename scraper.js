@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const scrape = async () => {
-  const url = 'https://plaintextsports.com/mlb/2025/standings';
+  const url = 'https://plaintextsports.com/mlb/2026/standings';
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
@@ -66,7 +66,7 @@ const scrape = async () => {
     if (todayText.endsWith('@')) {
       todayText = todayText.slice(0, -1).trim();
     }
-    const today = todayText + ' @ ' + pacificTime;
+    const today = time ? `${todayText} @ ${pacificTime}` : todayText;
 
     results.push({
       team,
