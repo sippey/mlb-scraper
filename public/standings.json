@@ -1,5 +1,5 @@
 {
-  "timestamp": "Fri, May 29, 10:24 PM",
+  "timestamp": "Sat, May 30, 1:56 AM",
   "standings": [
     {
       "team": "LAD",
@@ -24,12 +24,12 @@
     {
       "team": "AZ",
       "wins": 31,
-      "losses": 24,
-      "pct": ".564",
-      "gb": "5.0",
-      "streak": "W5",
-      "last10": "9-1",
-      "today": "at SEA (live)"
+      "losses": 25,
+      "pct": ".554",
+      "gb": "5.5",
+      "streak": "L1",
+      "last10": "8-2",
+      "today": "L at SEA"
     },
     {
       "team": "SF",
