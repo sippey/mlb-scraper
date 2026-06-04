@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Jun 3, 2:12 PM",
+  "timestamp": "Wed, Jun 3, 6:21 PM",
   "standings": [
     {
       "team": "LAD",
@@ -12,16 +12,6 @@
       "today": "at AZ @ 6:40"
     },
     {
-      "team": "SD",
-      "wins": 32,
-      "losses": 27,
-      "pct": ".542",
-      "gb": "6.0",
-      "streak": "L3",
-      "last10": "3-7",
-      "today": "at PHI @ 3:40"
-    },
-    {
       "team": "AZ",
       "wins": 32,
       "losses": 28,
@@ -30,6 +20,16 @@
       "streak": "L1",
       "last10": "6-4",
       "today": "vs LAD @ 6:40"
+    },
+    {
+      "team": "SD",
+      "wins": 32,
+      "losses": 28,
+      "pct": ".533",
+      "gb": "6.5",
+      "streak": "L4",
+      "last10": "2-8",
+      "today": "L at PHI"
     },
     {
       "team": "COL",
@@ -49,7 +49,7 @@
       "gb": "16.0",
       "streak": "L2",
       "last10": "3-7",
-      "today": "at MIL @ 4:40"
+      "today": "at MIL (live)"
     }
   ]
 }
