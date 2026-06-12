@@ -1,22 +1,22 @@
 {
-  "timestamp": "Thu, Jun 11, 6:17 PM",
+  "timestamp": "Thu, Jun 11, 10:43 PM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 43,
+      "wins": 44,
       "losses": 25,
-      "pct": ".632",
+      "pct": ".638",
       "gb": "-",
-      "streak": "L1",
+      "streak": "W1",
       "last10": "6-4",
-      "today": "at PIT (live)"
+      "today": "W at PIT"
     },
     {
       "team": "SD",
       "wins": 35,
       "losses": 32,
       "pct": ".522",
-      "gb": "7.5",
+      "gb": "8.0",
       "streak": "W1",
       "last10": "3-7",
       "today": "off"
@@ -26,7 +26,7 @@
       "wins": 34,
       "losses": 34,
       "pct": ".500",
-      "gb": "9.0",
+      "gb": "9.5",
       "streak": "L3",
       "last10": "3-7",
       "today": "L at MIA"
@@ -36,7 +36,7 @@
       "wins": 28,
       "losses": 41,
       "pct": ".406",
-      "gb": "15.5",
+      "gb": "16.0",
       "streak": "W1",
       "last10": "5-5",
       "today": "off"
@@ -46,7 +46,7 @@
       "wins": 26,
       "losses": 43,
       "pct": ".377",
-      "gb": "17.5",
+      "gb": "18.0",
       "streak": "L1",
       "last10": "4-6",
       "today": "L vs CHC"
