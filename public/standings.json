@@ -1,5 +1,5 @@
 {
-  "timestamp": "Wed, Jun 17, 6:16 PM",
+  "timestamp": "Wed, Jun 17, 10:45 PM",
   "standings": [
     {
       "team": "LAD",
@@ -33,23 +33,23 @@
     },
     {
       "team": "SF",
-      "wins": 30,
+      "wins": 31,
       "losses": 43,
-      "pct": ".411",
-      "gb": "17.0",
-      "streak": "W2",
+      "pct": ".419",
+      "gb": "16.5",
+      "streak": "W3",
       "last10": "5-5",
       "today": "DH at ATL"
     },
     {
       "team": "COL",
       "wins": 28,
-      "losses": 46,
-      "pct": ".378",
-      "gb": "19.5",
-      "streak": "W1",
+      "losses": 47,
+      "pct": ".373",
+      "gb": "20.0",
+      "streak": "L1",
       "last10": "4-6",
-      "today": "at CHC (live)"
+      "today": "L at CHC"
     }
   ]
 }
