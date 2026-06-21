@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sat, Jun 20, 1:35 PM",
+  "timestamp": "Sat, Jun 20, 6:19 PM",
   "standings": [
     {
       "team": "LAD",
@@ -23,23 +23,23 @@
     },
     {
       "team": "SD",
-      "wins": 38,
+      "wins": 39,
       "losses": 36,
-      "pct": ".514",
-      "gb": "10.0",
-      "streak": "L1",
+      "pct": ".520",
+      "gb": "9.5",
+      "streak": "W1",
       "last10": "5-5",
-      "today": "at TEX (live)"
+      "today": "W at TEX"
     },
     {
       "team": "SF",
       "wins": 31,
-      "losses": 44,
-      "pct": ".413",
-      "gb": "17.5",
-      "streak": "L1",
-      "last10": "5-5",
-      "today": "at MIA (live)"
+      "losses": 45,
+      "pct": ".408",
+      "gb": "18.0",
+      "streak": "L2",
+      "last10": "4-6",
+      "today": "L at MIA"
     },
     {
       "team": "COL",
