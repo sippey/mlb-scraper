@@ -1,55 +1,55 @@
 {
-  "timestamp": "Tue, Jun 30, 6:13 PM",
+  "timestamp": "Tue, Jun 30, 10:41 PM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 55,
+      "wins": 56,
       "losses": 30,
-      "pct": ".647",
+      "pct": ".651",
       "gb": "-",
-      "streak": "W3",
+      "streak": "W4",
       "last10": "7-3",
-      "today": "at ATH @ 6:40"
+      "today": "W at ATH"
     },
     {
       "team": "SD",
       "wins": 43,
-      "losses": 40,
-      "pct": ".518",
-      "gb": "11.0",
-      "streak": "L3",
+      "losses": 41,
+      "pct": ".512",
+      "gb": "12.0",
+      "streak": "L4",
       "last10": "5-5",
-      "today": "at CHC (live)"
+      "today": "L at CHC"
     },
     {
       "team": "AZ",
-      "wins": 42,
+      "wins": 43,
       "losses": 42,
-      "pct": ".500",
+      "pct": ".506",
       "gb": "12.5",
-      "streak": "W1",
+      "streak": "W2",
       "last10": "4-6",
-      "today": "vs SF @ 6:40"
+      "today": "W vs SF"
     },
     {
       "team": "SF",
       "wins": 35,
-      "losses": 49,
-      "pct": ".417",
-      "gb": "19.5",
-      "streak": "L1",
+      "losses": 50,
+      "pct": ".412",
+      "gb": "20.5",
+      "streak": "L2",
       "last10": "4-6",
-      "today": "at AZ @ 6:40"
+      "today": "L at AZ"
     },
     {
       "team": "COL",
       "wins": 33,
-      "losses": 52,
-      "pct": ".388",
-      "gb": "22.0",
-      "streak": "L2",
-      "last10": "5-5",
-      "today": "vs MIA (live)"
+      "losses": 53,
+      "pct": ".384",
+      "gb": "23.0",
+      "streak": "L3",
+      "last10": "4-6",
+      "today": "L vs MIA"
     }
   ]
 }
