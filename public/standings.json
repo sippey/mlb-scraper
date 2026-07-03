@@ -1,5 +1,5 @@
 {
-  "timestamp": "Thu, Jul 2, 1:33 PM",
+  "timestamp": "Thu, Jul 2, 5:53 PM",
   "standings": [
     {
       "team": "LAD",
@@ -43,13 +43,13 @@
     },
     {
       "team": "COL",
-      "wins": 34,
+      "wins": 35,
       "losses": 53,
-      "pct": ".391",
-      "gb": "22.0",
-      "streak": "W1",
-      "last10": "4-6",
-      "today": "vs MIA (live)"
+      "pct": ".398",
+      "gb": "21.5",
+      "streak": "W2",
+      "last10": "5-5",
+      "today": "W vs MIA"
     }
   ]
 }
