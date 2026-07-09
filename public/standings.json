@@ -1,42 +1,42 @@
 {
-  "timestamp": "Wed, Jul 8, 5:52 PM",
+  "timestamp": "Wed, Jul 8, 10:25 PM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 60,
+      "wins": 61,
       "losses": 33,
-      "pct": ".645",
+      "pct": ".649",
       "gb": "-",
-      "streak": "L1",
+      "streak": "W1",
       "last10": "7-3",
-      "today": "vs COL @ 7:10"
+      "today": "W vs COL"
+    },
+    {
+      "team": "SD",
+      "wins": 46,
+      "losses": 46,
+      "pct": ".500",
+      "gb": "14.0",
+      "streak": "W2",
+      "last10": "3-7",
+      "today": "W vs AZ"
     },
     {
       "team": "AZ",
       "wins": 45,
-      "losses": 46,
-      "pct": ".495",
-      "gb": "14.0",
-      "streak": "L1",
+      "losses": 47,
+      "pct": ".489",
+      "gb": "15.0",
+      "streak": "L2",
       "last10": "4-6",
-      "today": "at SD @ 7:10"
-    },
-    {
-      "team": "SD",
-      "wins": 45,
-      "losses": 46,
-      "pct": ".495",
-      "gb": "14.0",
-      "streak": "W1",
-      "last10": "2-8",
-      "today": "vs AZ @ 7:10"
+      "today": "L at SD"
     },
     {
       "team": "SF",
       "wins": 38,
       "losses": 54,
       "pct": ".413",
-      "gb": "21.5",
+      "gb": "22.0",
       "streak": "L2",
       "last10": "4-6",
       "today": "L vs TOR"
@@ -44,12 +44,12 @@
     {
       "team": "COL",
       "wins": 38,
-      "losses": 55,
-      "pct": ".409",
-      "gb": "22.0",
-      "streak": "W1",
+      "losses": 56,
+      "pct": ".404",
+      "gb": "23.0",
+      "streak": "L1",
       "last10": "5-5",
-      "today": "at LAD @ 7:10"
+      "today": "L at LAD"
     }
   ]
 }
