@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sat, Jul 18, 5:48 PM",
+  "timestamp": "Sat, Jul 18, 10:08 PM",
   "standings": [
     {
       "team": "LAD",
@@ -34,12 +34,12 @@
     {
       "team": "SF",
       "wins": 42,
-      "losses": 55,
-      "pct": ".433",
-      "gb": "19.5",
-      "streak": "W3",
-      "last10": "6-4",
-      "today": "at SEA (live)"
+      "losses": 56,
+      "pct": ".429",
+      "gb": "20.0",
+      "streak": "L1",
+      "last10": "5-5",
+      "today": "L at SEA"
     },
     {
       "team": "COL",
