@@ -1,5 +1,5 @@
 {
-  "timestamp": "Thu, Jul 23, 9:35 AM",
+  "timestamp": "Thu, Jul 23, 1:28 PM",
   "standings": [
     {
       "team": "LAD",
@@ -24,12 +24,12 @@
     {
       "team": "SD",
       "wins": 50,
-      "losses": 52,
-      "pct": ".490",
-      "gb": "14.5",
-      "streak": "L1",
+      "losses": 53,
+      "pct": ".485",
+      "gb": "15.0",
+      "streak": "L2",
       "last10": "4-6",
-      "today": "at ATL (live)"
+      "today": "L at ATL"
     },
     {
       "team": "SF",
