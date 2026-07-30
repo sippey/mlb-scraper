@@ -1,22 +1,22 @@
 {
-  "timestamp": "Wed, Jul 29, 5:43 PM",
+  "timestamp": "Wed, Jul 29, 10:07 PM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 67,
+      "wins": 68,
       "losses": 40,
-      "pct": ".626",
+      "pct": ".630",
       "gb": "-",
-      "streak": "L2",
+      "streak": "W1",
       "last10": "6-4",
-      "today": "vs SEA @ 7:10"
+      "today": "W vs SEA"
     },
     {
       "team": "AZ",
       "wins": 57,
       "losses": 52,
       "pct": ".523",
-      "gb": "11.0",
+      "gb": "11.5",
       "streak": "W2",
       "last10": "6-4",
       "today": "W at PIT"
@@ -26,7 +26,7 @@
       "wins": 55,
       "losses": 53,
       "pct": ".509",
-      "gb": "12.5",
+      "gb": "13.0",
       "streak": "W5",
       "last10": "7-3",
       "today": "W vs COL"
@@ -36,7 +36,7 @@
       "wins": 46,
       "losses": 62,
       "pct": ".426",
-      "gb": "21.5",
+      "gb": "22.0",
       "streak": "W1",
       "last10": "4-6",
       "today": "W vs MIL"
@@ -46,7 +46,7 @@
       "wins": 42,
       "losses": 67,
       "pct": ".385",
-      "gb": "26.0",
+      "gb": "26.5",
       "streak": "L4",
       "last10": "3-7",
       "today": "L at SD"
