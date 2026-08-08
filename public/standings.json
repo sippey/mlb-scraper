@@ -1,55 +1,55 @@
 {
-  "timestamp": "Fri, Aug 7, 7:01 PM",
+  "timestamp": "Fri, Aug 7, 10:03 PM",
   "standings": [
     {
       "team": "LAD",
       "wins": 69,
-      "losses": 46,
-      "pct": ".600",
+      "losses": 47,
+      "pct": ".595",
       "gb": "-",
-      "streak": "L6",
+      "streak": "L7",
       "last10": "2-8",
-      "today": "at AZ (live)"
+      "today": "L at AZ"
     },
     {
       "team": "AZ",
-      "wins": 61,
+      "wins": 62,
       "losses": 55,
-      "pct": ".526",
-      "gb": "8.5",
-      "streak": "L1",
-      "last10": "6-4",
-      "today": "vs LAD (live)"
+      "pct": ".530",
+      "gb": "7.5",
+      "streak": "W1",
+      "last10": "7-3",
+      "today": "W vs LAD"
     },
     {
       "team": "SD",
       "wins": 60,
-      "losses": 56,
-      "pct": ".517",
+      "losses": 57,
+      "pct": ".513",
       "gb": "9.5",
-      "streak": "W1",
-      "last10": "7-3",
-      "today": "vs HOU (live)"
+      "streak": "L1",
+      "last10": "6-4",
+      "today": "L vs HOU"
     },
     {
       "team": "SF",
-      "wins": 48,
+      "wins": 49,
       "losses": 67,
-      "pct": ".417",
-      "gb": "21.0",
-      "streak": "L2",
+      "pct": ".422",
+      "gb": "20.0",
+      "streak": "W1",
       "last10": "4-6",
-      "today": "vs DET @ 7:15"
+      "today": "W vs DET"
     },
     {
       "team": "COL",
       "wins": 45,
-      "losses": 70,
-      "pct": ".391",
+      "losses": 71,
+      "pct": ".388",
       "gb": "24.0",
-      "streak": "L3",
+      "streak": "L4",
       "last10": "3-7",
-      "today": "at STL (live)"
+      "today": "L at STL"
     }
   ]
 }
