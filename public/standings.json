@@ -1,5 +1,5 @@
 {
-  "timestamp": "Thu, Aug 20, 9:40 AM",
+  "timestamp": "Thu, Aug 20, 1:34 PM",
   "standings": [
     {
       "team": "LAD",
@@ -34,12 +34,12 @@
     {
       "team": "SF",
       "wins": 52,
-      "losses": 74,
-      "pct": ".413",
-      "gb": "24.0",
-      "streak": "W1",
+      "losses": 75,
+      "pct": ".409",
+      "gb": "24.5",
+      "streak": "L1",
       "last10": "3-7",
-      "today": "at CLE @ 10:10"
+      "today": "L at CLE"
     },
     {
       "team": "COL",
