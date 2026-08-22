@@ -1,22 +1,22 @@
 {
-  "timestamp": "Fri, Aug 21, 9:38 PM",
+  "timestamp": "Sat, Aug 22, 1:36 AM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 77,
+      "wins": 78,
       "losses": 51,
-      "pct": ".602",
+      "pct": ".605",
       "gb": "-",
-      "streak": "W3",
+      "streak": "W4",
       "last10": "7-3",
-      "today": "vs PIT (live)"
+      "today": "W vs PIT"
     },
     {
       "team": "SD",
       "wins": 69,
       "losses": 60,
       "pct": ".535",
-      "gb": "8.5",
+      "gb": "9.0",
       "streak": "W1",
       "last10": "7-3",
       "today": "W vs MIN"
@@ -26,7 +26,7 @@
       "wins": 68,
       "losses": 61,
       "pct": ".527",
-      "gb": "9.5",
+      "gb": "10.0",
       "streak": "W2",
       "last10": "5-5",
       "today": "W vs CIN"
@@ -36,7 +36,7 @@
       "wins": 52,
       "losses": 76,
       "pct": ".406",
-      "gb": "25.0",
+      "gb": "25.5",
       "streak": "L2",
       "last10": "3-7",
       "today": "L at BOS"
@@ -46,7 +46,7 @@
       "wins": 50,
       "losses": 78,
       "pct": ".391",
-      "gb": "27.0",
+      "gb": "27.5",
       "streak": "L4",
       "last10": "4-6",
       "today": "L vs CLE"
