@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sat, Aug 29, 3:32 PM",
+  "timestamp": "Sat, Aug 29, 9:55 PM",
   "standings": [
     {
       "team": "LAD",
@@ -12,44 +12,44 @@
       "today": "L at DET"
     },
     {
-      "team": "SD",
-      "wins": 72,
-      "losses": 63,
+      "team": "AZ",
+      "wins": 73,
+      "losses": 64,
       "pct": ".533",
       "gb": "8.5",
-      "streak": "L1",
-      "last10": "5-5",
-      "today": "at TB (live)"
+      "streak": "W2",
+      "last10": "7-3",
+      "today": "DH at SF"
     },
     {
-      "team": "AZ",
+      "team": "SD",
       "wins": 72,
       "losses": 64,
       "pct": ".529",
       "gb": "9.0",
-      "streak": "W1",
-      "last10": "6-4",
-      "today": "DH at SF"
+      "streak": "L2",
+      "last10": "5-5",
+      "today": "L at TB"
     },
     {
       "team": "SF",
       "wins": 55,
-      "losses": 80,
-      "pct": ".407",
-      "gb": "25.5",
-      "streak": "L1",
-      "last10": "4-6",
+      "losses": 81,
+      "pct": ".404",
+      "gb": "26.0",
+      "streak": "L2",
+      "last10": "3-7",
       "today": "DH vs AZ"
     },
     {
       "team": "COL",
       "wins": 52,
-      "losses": 83,
-      "pct": ".385",
-      "gb": "28.5",
-      "streak": "L2",
+      "losses": 84,
+      "pct": ".382",
+      "gb": "29.0",
+      "streak": "L3",
       "last10": "2-8",
-      "today": "at ATL (live)"
+      "today": "L at ATL"
     }
   ]
 }
