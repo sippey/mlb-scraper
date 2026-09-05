@@ -1,32 +1,32 @@
 {
-  "timestamp": "Fri, Sep 4, 8:58 PM",
+  "timestamp": "Sat, Sep 5, 1:17 AM",
   "standings": [
     {
       "team": "LAD",
-      "wins": 83,
+      "wins": 84,
       "losses": 57,
-      "pct": ".593",
+      "pct": ".596",
       "gb": "-",
-      "streak": "W1",
+      "streak": "W2",
       "last10": "4-6",
-      "today": "vs WSH (live)"
+      "today": "W vs WSH"
     },
     {
       "team": "SD",
-      "wins": 73,
+      "wins": 74,
       "losses": 67,
-      "pct": ".521",
+      "pct": ".525",
       "gb": "10.0",
-      "streak": "L2",
+      "streak": "W1",
       "last10": "3-7",
-      "today": "vs NYY (live)"
+      "today": "W vs NYY"
     },
     {
       "team": "AZ",
       "wins": 74,
       "losses": 68,
       "pct": ".521",
-      "gb": "10.0",
+      "gb": "10.5",
       "streak": "L1",
       "last10": "5-5",
       "today": "L at HOU"
@@ -36,7 +36,7 @@
       "wins": 58,
       "losses": 84,
       "pct": ".408",
-      "gb": "26.0",
+      "gb": "26.5",
       "streak": "L2",
       "last10": "4-6",
       "today": "L at NYM"
@@ -46,7 +46,7 @@
       "wins": 54,
       "losses": 87,
       "pct": ".383",
-      "gb": "29.5",
+      "gb": "30.0",
       "streak": "L1",
       "last10": "4-6",
       "today": "L vs STL"
