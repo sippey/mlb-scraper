@@ -1,5 +1,5 @@
 {
-  "timestamp": "Sat, Sep 19, 9:29 PM",
+  "timestamp": "Sun, Sep 20, 5:58 AM",
   "standings": [
     {
       "team": "LAD",
@@ -9,17 +9,17 @@
       "gb": "-",
       "streak": "W3",
       "last10": "7-3",
-      "today": "W vs SF"
+      "today": "vs SF @ 1:10"
     },
     {
       "team": "SD",
-      "wins": 85,
+      "wins": 86,
       "losses": 69,
-      "pct": ".552",
-      "gb": "9.5",
-      "streak": "W3",
+      "pct": ".555",
+      "gb": "9.0",
+      "streak": "W4",
       "last10": "9-1",
-      "today": "vs MIA (live)"
+      "today": "vs MIA @ 1:10"
     },
     {
       "team": "AZ",
@@ -29,7 +29,7 @@
       "gb": "14.0",
       "streak": "W1",
       "last10": "4-6",
-      "today": "W vs NYY"
+      "today": "vs NYY @ 1:10"
     },
     {
       "team": "SF",
@@ -39,7 +39,7 @@
       "gb": "31.0",
       "streak": "L2",
       "last10": "4-6",
-      "today": "L at LAD"
+      "today": "at LAD @ 1:10"
     },
     {
       "team": "COL",
@@ -49,7 +49,7 @@
       "gb": "38.0",
       "streak": "W1",
       "last10": "2-8",
-      "today": "W vs SEA"
+      "today": "vs SEA @ 12:10"
     }
   ]
 }
