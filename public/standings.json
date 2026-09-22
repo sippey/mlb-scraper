@@ -1,5 +1,5 @@
 {
-  "timestamp": "Mon, Sep 21, 1:20 PM",
+  "timestamp": "Mon, Sep 21, 9:22 PM",
   "standings": [
     {
       "team": "LAD",
@@ -33,13 +33,13 @@
     },
     {
       "team": "SF",
-      "wins": 64,
+      "wins": 65,
       "losses": 92,
-      "pct": ".410",
-      "gb": "32.0",
-      "streak": "L3",
+      "pct": ".414",
+      "gb": "31.5",
+      "streak": "W1",
       "last10": "3-7",
-      "today": "vs MIN @ 6:45"
+      "today": "vs MIN (live)"
     },
     {
       "team": "COL",
